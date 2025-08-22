@@ -1,0 +1,32 @@
+{
+  "name": "clean-create",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "clean-create": "./bin/cli.js"
+  },
+  "keywords": [
+    "cli",
+    "template",
+    "react",
+    "nextjs",
+    "clean"
+  ],
+  "author": "Malik Haziq",
+  "license": "MIT",
+  "description": "Create clean project templates with zero boilerplate",
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "commander": "^14.0.0",
+    "execa": "^9.6.0",
+    "fs-extra": "^11.3.1",
+    "inquirer": "^12.9.3",
+    "ora": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0"
+  }
+}
