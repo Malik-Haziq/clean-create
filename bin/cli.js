@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const { program } = require("commander");
-const createProject = require("../lib/create-project");
+import { program } from "commander";
+import createProject from "../lib/create-project.js";
 
 program
   .version("1.0.0")
