@@ -1,3 +1,3 @@
 export default function App() {
-  return <div>Remove me! and start working.</div>;
+  return <h1>Remove me! and start working.</h1>;
 }

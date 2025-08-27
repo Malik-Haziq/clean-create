@@ -1,0 +1,8 @@
+test-*/
+*.sh
+.git/
+.gitignore
+README.md
+node_modules/
+*.log
+.DS_Store

@@ -181,7 +181,7 @@ We'd love your help! Here's how to contribute:
 
 ## License
 
-MIT © [Your Name](https://github.com/Malik-Haziq)
+MIT © [Malik Haziq](https://github.com/Malik-Haziq)
 
 ---
 
