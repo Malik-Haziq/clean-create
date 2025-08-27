@@ -1,12 +1,12 @@
 {
-  "name": "clean-create",
+  "name": "zero-boiler",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "clean-create": "./bin/cli.js"
+    "zero-boiler": "./bin/cli.js"
   },
   "keywords": [
     "cli",

@@ -1,10 +1,10 @@
-# clean-create
+# zero-boiler
 
 🚀 Create clean project templates with zero boilerplate code. Interactive CLI for React, Next.js & more - just the essentials, ready to code.
 
-## Why clean-create?
+## Why zero-boiler?
 
-Tired of deleting demo code every time you start a new project? **clean-create** gives you production-ready templates with zero fluff - just clean, minimal setups that let you jump straight into building.
+Tired of deleting demo code every time you start a new project? **zero-boiler** gives you production-ready templates with zero fluff - just clean, minimal setups that let you jump straight into building.
 
 ## Features
 
@@ -19,7 +19,7 @@ Tired of deleting demo code every time you start a new project? **clean-create**
 ## Quick Start
 
 ```bash
-npx clean-create react my-app
+npx zero-boiler react my-app
 ```
 
 That's it! Answer 2 quick questions and you're ready to code.
@@ -29,7 +29,7 @@ That's it! Answer 2 quick questions and you're ready to code.
 ### Basic Syntax
 
 ```bash
-npx clean-create <framework> <project-name>
+npx zero-boiler <framework> <project-name>
 ```
 
 ### Supported Frameworks
@@ -49,7 +49,7 @@ After running the command, you'll be asked:
 ### React Project
 
 ```bash
-npx clean-create react my-react-app
+npx zero-boiler react my-react-app
 cd my-react-app
 npm run dev
 ```
@@ -57,7 +57,7 @@ npm run dev
 ### Next.js Project
 
 ```bash
-npx clean-create nextjs my-nextjs-app
+npx zero-boiler nextjs my-nextjs-app
 cd my-nextjs-app
 npm run dev
 ```
@@ -134,7 +134,7 @@ npm run lint     # Run ESLint
 
 | Tool             | Demo Code | TypeScript  | Tailwind    | Setup Time |
 | ---------------- | --------- | ----------- | ----------- | ---------- |
-| **clean-create** | ❌ None   | ✅ Optional | ✅ Optional | 30s        |
+| **zero-boiler**  | ❌ None   | ✅ Optional | ✅ Optional | 30s        |
 | Create React App | ✅ Lots   | ❌ Manual   | ❌ Manual   | 5min+      |
 | Vite Templates   | ✅ Some   | ✅ Separate | ❌ Manual   | 2min       |
 | Next.js CLI      | ✅ Some   | ✅ Optional | ❌ Manual   | 2min       |
@@ -175,8 +175,8 @@ We'd love your help! Here's how to contribute:
 
 ## Issues & Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Malik-Haziq/clean-create/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/Malik-Haziq/clean-create/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Malik-Haziq/zero-boiler/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Malik-Haziq/zero-boiler/discussions)
 - 📧 **Email**: malikhaziq153@gmail.com
 
 ## License
@@ -189,4 +189,4 @@ MIT © [Malik Haziq](https://github.com/Malik-Haziq)
 
 ### Star the project if it helped you! ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/Malik-Haziq/clean-create.svg?style=social&label=Star)](https://github.com/Malik-Haziq/clean-create)
+[![GitHub stars](https://img.shields.io/github/stars/Malik-Haziq/zero-boiler.svg?style=social&label=Star)](https://github.com/Malik-Haziq/zero-boiler)
