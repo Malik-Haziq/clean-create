@@ -175,13 +175,13 @@ We'd love your help! Here's how to contribute:
 
 ## Issues & Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/clean-create/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/clean-create/discussions)
-- 📧 **Email**: your-email@domain.com
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Malik-Haziq/clean-create/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Malik-Haziq/clean-create/discussions)
+- 📧 **Email**: malikhaziq153@gmail.com
 
 ## License
 
-MIT © [Your Name](https://github.com/yourusername)
+MIT © [Your Name](https://github.com/Malik-Haziq)
 
 ---
 
@@ -189,4 +189,4 @@ MIT © [Your Name](https://github.com/yourusername)
 
 ### Star the project if it helped you! ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/clean-create.svg?style=social&label=Star)](https://github.com/yourusername/clean-create)
+[![GitHub stars](https://img.shields.io/github/stars/Malik-Haziq/clean-create.svg?style=social&label=Star)](https://github.com/Malik-Haziq/clean-create)
